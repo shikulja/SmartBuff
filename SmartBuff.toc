@@ -3,6 +3,6 @@
 ## Version: 1.12a
 ## Author: Aeldra
 ## Notes: Cast the most important buffs on you or party/raid members/pets. Use << /sbm >> for options menu.
-## Notes-ruRU: Применение наиболее важных для вас/группы/питомцев баффов. Используйте << /sbm >> для вызова меню опций.
+## Notes-ruRU: РџСЂРёРјРµРЅРµРЅРёРµ РЅР°РёР±РѕР»РµРµ РІР°Р¶РЅС‹С… РґР»СЏ РІР°СЃ/РіСЂСѓРїРїС‹/РїРёС‚РѕРјС†РµРІ Р±Р°С„С„РѕРІ. РСЃРїРѕР»СЊР·СѓР№С‚Рµ << /sbm >> РґР»СЏ РІС‹Р·РѕРІР° РјРµРЅСЋ РѕРїС†РёР№.
 ## SavedVariablesPerCharacter: SMARTBUFF_Options, SMARTBUFF_Buffs
 SmartBuff.xml
